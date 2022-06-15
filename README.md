@@ -7,6 +7,7 @@
     -   Ajouter le process multiqc
     -   Tester le pipeline et décrire la sortie
     -   Décrire les options de processes
+    -   Détailler la partie basename à la place des wildcards
     -   Expliquer la structure conseillée pour un "vrai" pipeline
     -   Proposer d'autres pistes d'approfondissement
 -   [ ] Relire et uniformiser le style
